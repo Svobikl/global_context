@@ -1,7 +1,7 @@
 # global_context
 Improving Word Meaning Representations using Wikipedia Categories
 
-# Project Title
+# Improving Word Meaning Representations using Wikipedia Categories
 
 We extend Skip-Gram and Continuous Bag-of-Words models via global context information. We use Wikipedia corpus where articles are organized in a hierarchy of categories. These categories provide useful topical information about each article. We present several approaches how to enrich word meaning representation with such kind of information.
 
