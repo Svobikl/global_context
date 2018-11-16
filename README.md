@@ -13,6 +13,16 @@ see our publication at
 
 ## Download corpus
 
+Categories mapping here:
+```
+https://uloz.to/!jqKCLASD6MmL/categories-filtmin10-prefixed-txt-zip
+```
+Wikipedia articles: 
+```
+https://uloz.to/tam/_065GP5uM4VOj
+```
+
+another format with articles per line: 
 ```
 https://uloz.to/tam/_065GP5uM4VOj
 ```
