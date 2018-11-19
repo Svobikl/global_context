@@ -19,10 +19,10 @@ https://uloz.to/!jqKCLASD6MmL/categories-filtmin10-prefixed-txt-zip
 ```
 Wikipedia articles: 
 ```
-https://uloz.to/tam/_065GP5uM4VOj
+https://uloz.to/!nZLUURC15rkv/wiki-filteredmin10-txt-zip
 ```
 
-another format with articles per line: 
+another format with one sentence per line: 
 ```
 https://uloz.to/tam/_065GP5uM4VOj
 ```
