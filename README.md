@@ -56,7 +56,7 @@ Word2Vec, LexVec or fastText tools, clean implementation has to be done.
 
 ## License
 
-This corpus is free for science purposes. 
+This corpus and models are free for research purposes. 
 
 ## Acknowledgments
 This work has been partly supported from ERDF "Research and Development of Intelligent Components of Advanced Technologies for the Pilsen Metropolitan Area (InteCom)" (no.: CZ.02.1.01/0.0/0.0/17\_048/0007267) and by Grant No. SGS-2016-018 Data and Software Engineering for Advanced Applications. Computational resources were provided by the CESNET LM2015042 and the CERIT Scientific Cloud LM2015085, provided under the programme "Projects of Large Research, Development, and Innovations Infrastructures".
