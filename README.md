@@ -37,7 +37,7 @@ https://drive.google.com/drive/folders/1uv18K8ZGaLzMuzfgSRQERJqZdsn51o9B?usp=sha
 Trained models can be downloaded at following links: 
 CBOW
 ```
-
+https://uloz.to/!usCgCpNUbMEZ/trained-cbow-vec-zip
 ```
 Skip-gram
 ```
