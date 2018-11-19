@@ -28,7 +28,9 @@ https://uloz.to/tam/_065GP5uM4VOj
 ```
 
 alternative download: 
+```
 https://drive.google.com/drive/folders/1uv18K8ZGaLzMuzfgSRQERJqZdsn51o9B?usp=sharing
+```
 
 ## Models
 
@@ -42,8 +44,10 @@ Skip-gram
 https://uloz.to/!EJ8rDhVkMKoV/vectors-skip-cat-bin-zip
 ```
 
+Or here: 
+```
 https://drive.google.com/drive/folders/1uv18K8ZGaLzMuzfgSRQERJqZdsn51o9B?usp=sharing
-
+```
 
 ## Use with 
 
