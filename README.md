@@ -27,6 +27,24 @@ another format with articles per line:
 https://uloz.to/tam/_065GP5uM4VOj
 ```
 
+alternative download: 
+https://drive.google.com/drive/folders/1uv18K8ZGaLzMuzfgSRQERJqZdsn51o9B?usp=sharing
+
+## Models
+
+Trained models can be downloaded at following links: 
+CBOW
+```
+
+```
+Skip-gram
+```
+https://uloz.to/!EJ8rDhVkMKoV/vectors-skip-cat-bin-zip
+```
+
+https://drive.google.com/drive/folders/1uv18K8ZGaLzMuzfgSRQERJqZdsn51o9B?usp=sharing
+
+
 ## Use with 
 
 Word2Vec, LexVec or fastText tools, clean implementation has to be done.
