@@ -48,6 +48,10 @@ Or here:
 ```
 https://drive.google.com/drive/folders/1uv18K8ZGaLzMuzfgSRQERJqZdsn51o9B?usp=sharing
 ```
+CZ corpus: 
+```
+https://drive.google.com/drive/folders/1rraa5-FGW-AfLeU3StVbsjN0YjDbUWe6?usp=sharing
+```
 
 ## Use with 
 
