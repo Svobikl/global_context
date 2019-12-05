@@ -10,6 +10,36 @@ We experiment with English Wikipedia and evaluate our models on standard word si
 ## Getting Started
 
 see our publication at 
+```
+http://www.nnw.cz/doi/2018/NNW.2018.28.029.pdf
+
+and 
+
+https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/download/3268/2686
+```
+
+## Please cite both articles 
+```
+@article{svoboda2018improving,
+  title={IMPROVING WORD MEANING REPRESENTATIONS USING WIKIPEDIA CATEGORIES},
+  author={Svoboda, L and Brychc{\i}n, T},
+  journal={Neural Network World},
+  volume={523},
+  pages={534},
+  year={2018}
+}
+```
+and 
+```
+@article{svoboda2019enriching,
+  title={Enriching Word Embeddings with Global Information and Testing on Highly Inflected Language},
+  author={Svoboda, Luk{\'a}{\v{s}} and Brychc{\'\i}n, Tom{\'a}{\v{s}}},
+  journal={Computaci{\'o}n y Sistemas},
+  volume={23},
+  number={3},
+  year={2019}
+}
+```
 
 ## Download corpus
 
